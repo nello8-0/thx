@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(255 244 244);
+    background-image: url(../imgs/clouds.png);
+    background-repeat: repeat-x;
+    width: 99%;
+    height: 680px;
+    opacity: .99;
+    /* position: relative; */
+}
+
+.submit{
+    background-color: rgb(250, 180, 31);
+}
+
+.content{
+    text-align: start;
+}
+
+.tree{
+    position: absolute;
+    bottom: -60px;
+    right: 0;
+}
+
+.man{
+    position: absolute;
+    bottom:-60px;
+    left: 0;
+}
+
+.twitter{
+    position: absolute;
+    bottom: 20px;
+    left: 1000px;
+}
+.meta{
+    position: absolute;
+    bottom: 20px;
+    left: 950px;
+}
+
+.copy{
+    position: absolute;
+    bottom: 20px;
+    left: 350px;
+}
+
+

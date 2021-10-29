@@ -1,0 +1,36 @@
+table{
+    width: 670px;
+    height: 600px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.th_g{
+    background-color: #8ac40f;
+    color: black;
+}
+
+.price{
+    background-color: #98e104;
+}
+
+.head{
+    background-color: rgb(77, 74, 74);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700px;
+}
+tr:nth-child(even){
+    background-color: #cecbcb8c;
+}
+
+.fas{
+    color: #86ff05;
+    font-size: 18px;
+    
+}
+
+th{
+    text-align: right;
+    font-size: 17px;
+}
